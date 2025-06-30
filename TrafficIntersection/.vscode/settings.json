@@ -1,0 +1,16 @@
+{
+	"files.associations": {
+		"trafficfunctions.h": "c",
+		"spicommunication.h": "c",
+		"pedestriancontrol.h": "c",
+		"carcontrol.h": "c",
+		"main.h": "c",
+		"lightscontrol.h": "c",
+		"carsignallights.h": "c",
+		"carsignallogic.h": "c",
+		"constants.h": "c",
+		"traffictypes.h": "c",
+		"pedestrianlights.h": "c",
+		"pedestrianlogic.h": "c"
+	}
+}

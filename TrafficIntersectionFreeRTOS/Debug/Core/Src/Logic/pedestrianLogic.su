@@ -1,0 +1,4 @@
+../Core/Src/Logic/pedestrianLogic.c:15:6:initPedestrianState	24	static
+../Core/Src/Logic/pedestrianLogic.c:26:5:crossWalkButtonPressed	24	static
+../Core/Src/Logic/pedestrianLogic.c:46:6:processPedestrianState	24	static
+../Core/Src/Logic/pedestrianLogic.c:93:6:pedestrianLogic	24	static

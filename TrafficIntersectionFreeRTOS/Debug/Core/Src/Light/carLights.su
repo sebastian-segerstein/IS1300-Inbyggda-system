@@ -1,0 +1,3 @@
+../Core/Src/Light/carLights.c:31:6:updateCarState	16	static
+../Core/Src/Light/carLights.c:67:6:clearHorizontalLanes	16	static
+../Core/Src/Light/carLights.c:74:6:clearVerticalLanes	16	static

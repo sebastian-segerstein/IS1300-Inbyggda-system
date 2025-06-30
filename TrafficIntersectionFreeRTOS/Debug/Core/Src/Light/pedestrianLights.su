@@ -1,0 +1,2 @@
+../Core/Src/Light/pedestrianLights.c:34:6:toggleIndicatorLight	16	static
+../Core/Src/Light/pedestrianLights.c:41:6:updatePedestrianState	16	static

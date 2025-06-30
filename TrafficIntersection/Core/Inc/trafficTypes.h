@@ -1,0 +1,24 @@
+#ifndef TRAFFIC_TYPES_H
+#define TRAFFIC_TYPES_H
+
+typedef enum {
+	GREEN,
+	YELLOW,
+	RED_WITH_INDICATOR,
+	RED,
+	VERTICAL_GREEN,
+	VERTICAL_RED
+} LightState;
+
+typedef enum {
+	VRED_HRED,
+	VRED_HBLUE,
+	VRED_HGREEN,
+	VBLUE_HRED,
+	VGREEN_HRED,
+	VBLUE_HBLUE,
+	VBLUE_HGREEN,
+	VGREEN_HBLUE
+} CombinedLightState;
+
+#endif /* TRAFFIC_TYPES_H */

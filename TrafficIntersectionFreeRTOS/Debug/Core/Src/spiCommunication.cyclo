@@ -1,0 +1,2 @@
+../Core/Src/spiCommunication.c:13:6:initializeRegisters	1
+../Core/Src/spiCommunication.c:20:6:transmitData	1
